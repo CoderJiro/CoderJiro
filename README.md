@@ -119,33 +119,33 @@ namespace JiroDevs
 ## <p align="center">GitHub Profile Trophy 🏆</p>
 
 <p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=JiroDevs&theme=tokyonight&row=2&column=4">
+<img src="https://github-profile-trophy.vercel.app/?username=CoderJiro&theme=tokyonight&row=2&column=4">
 </p>
 
 ## <p align="center">Top langs :tongue:</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiroDevs&langs_count=10&theme=tokyonight&layout=compact" alt="JiroDevs :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderJiro&langs_count=10&theme=tokyonight&layout=compact" alt="CoderJiro :: Top Langs" /></p>
 
 ## <p align="center">Profile stats :musical_keyboard:</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JiroDevs&show_icons=true&theme=tokyonight" alt="JiroDevs :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=CoderJiro&show_icons=true&theme=tokyonight" alt="CoderJiro :: Profile Stats" /></p>
 
 ## <p align="center">Repository pin 📌</p>
 
 <p align="center">	
-<a href="https://github.com/JiroDevs/baucuatomca22">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=JiroDevs&repo=baucuatomca22&theme=tokyonight" alt="JD" />
+<a href="https://github.com/CoderJiro/baucuatomcaV1">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=CoderJiro&repo=baucuatomcaV1&theme=tokyonight" alt="JD" />
 </a>
 
-<a href="https://github.com/JiroDevs/JiroDevs">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=JiroDevs&repo=JiroDevs&theme=tokyonight" alt="JD" />
+<a href="https://github.com/CoderJiro/CoderJiro">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=CoderJiro&repo=CoderJiro&theme=tokyonight" alt="JD" />
 </a>
 </p>
 
 ## <p align="center">Github Contributions 📈</p>
 <br>
 <p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=JiroDevs&theme=react-dark&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=CoderJiro&theme=react-dark&hide_border=true">
 <p>
 
 <hr>
