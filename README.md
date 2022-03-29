@@ -8,22 +8,17 @@
 
 <h2 align="center">About me</h2>
 
-```C#
-namespace JiroDevs
-{
-    class Jiro
+```JS
+const aboutJiro = [
     {
-        static void Main(string[] args)
-        {
-            string Name = "Phan Huy Lâm";
-            string Age = "2009";
-            string Gender = "Male";
-            string Address = "Đà Nẵng, Việt Nam";
-            string Skills = "C, C++, Javascript, Python, HTML/CSS";
-            string FamousQuotes = "Programming by heart!";
-        }
+        name: "Phan Huy Lâm",
+        age: 2009,
+        gender: "Male",
+        address: "Đà Nẵng, Việt Nam",
+        skills: "HTML/CSS, JavaScript, ReactJS, python",
+        famousQuotes: "Programming by heart!"
     }
-}
+]
 ```
 
 ## <p align="center">You can reach me at 🌹</p>
