@@ -135,6 +135,12 @@ const aboutJiro = [
 <a href="https://github.com/CoderJiro/CoderJiro">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=CoderJiro&repo=CoderJiro&theme=tokyonight" alt="JD" />
 </a>
+<a href="https://github.com/CoderJiro/dotfiles">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=CoderJiro&repo=dotfiles&theme=tokyonight" alt="JD" />
+</a>
+<a href="https://github.com/CoderJiro/neovim-config">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=CoderJiro&repo=neovim-config&theme=tokyonight" alt="JD" />
+</a>
 </p>
 
 ## <p align="center">Github Contributions 📈</p>
