@@ -6,7 +6,7 @@
 	</a>
 </p>
                         
-			Programming by heart!
+					Programming by heart!
 
 <h2 align="center">About me</h2>
 
