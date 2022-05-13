@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/CoderJiro">
-	<img src="https://static.lag.vn/upload/news/22/04/13/spy-x-family-yor-forger-la-ai-1_JYKP.jpg" width = "200" alt="JD">
+	<img src="https://i.pinimg.com/736x/10/c9/c0/10c9c02224ae9c08ba781bae2a856675.jpg" width = "200" alt="JD">
 	</a>
 </p>
                         
