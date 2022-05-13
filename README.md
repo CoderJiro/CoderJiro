@@ -1,10 +1,12 @@
-# <p align="center">Jiro Devs</p>
+# <p align="center">Jiro Dev</p>
 
 <p align="center">
 	<a href="https://github.com/JiroDevs">
 	<img src="https://i.pinimg.com/564x/bd/9d/9c/bd9d9c8ecfd85af9be562c7b34ec73ca.jpg" width = "200" alt="JD">
 	</a>
 </p>
+                        
+			Programming by heart!
 
 <h2 align="center">About me</h2>
 
@@ -16,7 +18,6 @@ const aboutJiro = [
         gender: "Male",
         address: "Đà Nẵng, Việt Nam",
         skills: "HTML/CSS, JavaScript, ReactJS, python",
-        famousQuotes: "Programming by heart!"
     }
 ]
 ```
