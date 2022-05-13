@@ -1,8 +1,8 @@
 # <p align="center">Jiro Dev</p>
 
 <p align="center">
-	<a href="https://github.com/JiroDevs">
-	<img src="https://static.lag.vn/upload/news/22/04/13/spy-x-family-yor-forger-la-ai-1_JYKP.jpg?w=800&encoder=wic&subsampling=444" width = "200" alt="JD">
+	<a href="https://github.com/CoderJiro">
+	<img src="https://static.lag.vn/upload/news/22/04/13/spy-x-family-yor-forger-la-ai-1_JYKP.jpg" width = "200" alt="JD">
 	</a>
 </p>
                         
